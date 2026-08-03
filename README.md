@@ -23,4 +23,3 @@ For now... none.
 ### Contributions and Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=naxturnal&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=naxturnal&theme=transparent&hide_border=false)
