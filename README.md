@@ -1,6 +1,6 @@
 # About me
 
-### Hey, I'm Naxturnal 👋
+### Hey, I'm Naxturnal
 
 I'm a back-end developer with a passion for programming and contributing to open source software and more. I don't contribute as often as I'd like since I don't have a ton of free time!
 
