@@ -1,6 +1,6 @@
-# About me
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/1a09bcfd-c6e7-4f8f-ac19-9816b7ec2664" />
 
-### Hey, I'm Naxturnal
+<br>
 
 I'm a back-end developer with a passion for programming and contributing to open source software and more. I don't contribute as often as I'd like since I don't have a ton of free time.
 
